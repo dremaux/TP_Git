@@ -22,7 +22,7 @@ int main(int argc, char *argv[]) {
     QApplication app(argc, argv);
 
     cout << "Boujour" << endl;
-    
+    cout << "nouveau test" << endl;
     // create and show your widgets here
 
     return app.exec();
