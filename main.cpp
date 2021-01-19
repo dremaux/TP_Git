@@ -23,6 +23,7 @@ int main(int argc, char *argv[]) {
 
     cout << "Boujour" << endl;
     cout << "nouveau test" << endl;
+    cout << "encore un teste pour voire" << endl;
     // create and show your widgets here
 
     return app.exec();
